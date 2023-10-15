@@ -17,18 +17,14 @@ npm start
 ```bash
 # The app is designed to be developed with the following structure:
 .
-├── public
-│   └── index.html
 ├── src
-│   ├── components
-│   │   └── Nav.jsx
-│   ├── pages
-│   │   ├── Bar.jsx
-│   │   ├── Baz.jsx
-│   │   ├── Foo.jsx
-│   │   └── Home.jsx
-│   ├── App.jsx
-│   └── index.js
+│   ├── components
+│   ├── pages
+│   │   └── Home.jsx
+│   ├── App.jsx
+│   ├── index.html
+│   └── index.js
+├── README.md
 ├── package-lock.json
 └── package.json
 ```
