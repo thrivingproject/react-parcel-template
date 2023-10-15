@@ -15,7 +15,7 @@ npm start
 ## Structure
 
 ```bash
-# The app is designed to be developed as follows:
+# The app is designed to be developed with the following structure:
 .
 ├── public
 │   └── index.html
